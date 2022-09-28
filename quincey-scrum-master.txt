@@ -1,0 +1,24 @@
+8.45-9.00: standup/ bespreken wat je die dag gaat doen
+9.00-10.00: Werken aan de taken op het scrumboard
+10.00-10.15: Meeting met PO
+10.15-10.30: sprint review/ taken toevoegen vanuit de sprint review
+10:30-11.00 pauze
+11.00-11.50: Werken aan de taken op het scrumboard
+11.50-12.00: retrospectum
+------------------------------------
+Wat is er vandaag afgerond:
+
+Login & registratiefunctie
+Weergave van orders     
+Toevoegen van bestellingen      
+Verwijderen van bestellingen    
+Wijzigen van bestellingen       
+
+Wat is er nog niet af:
+Automatische mail naar klant
+Voorbereiding voor eindpresentatie
+
+------------------------------------
+
+Vragen voor gesprek met klant: 
+geen, eindpresentatie is namelijk volgende week
